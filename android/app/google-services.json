@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "412189374405",
+    "project_id": "rentapp-60505",
+    "storage_bucket": "rentapp-60505.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412189374405:android:52846b9f6da05e2f263dac",
+        "android_client_info": {
+          "package_name": "com.rentapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmKXS4HdfjNSYFIagr8tNKJ5G20ayQigg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
